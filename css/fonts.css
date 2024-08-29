@@ -1,0 +1,22 @@
+/* start first google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* start second google font */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* start font awesome cdn link*/
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+/* start customize */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 { 
+   font-family: 'Nunito Sans', sans-serif;
+}
+a,
+li,
+span,
+p { 
+   font-family: 'Poppins', sans-serif;
+}
+/* end customize */
